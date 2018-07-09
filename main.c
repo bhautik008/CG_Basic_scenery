@@ -1,8 +1,3 @@
-// CSC 706 HW1
-
-// Bhautik Bhanani
-
-
 #include <windows.h>
 #include <gl/gl.h>
 #include <GL/glu.h>
